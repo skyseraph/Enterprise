@@ -1,6 +1,10 @@
 # Enterprise
 Enterprise Reseach
 
+[![GitHub stars](https://img.shields.io/github/stars/skyseraph/Enterprise.svg?style=social&label=Star)](https://github.com/skyseraph/Enterprise)
+[![GitHub watchers](https://img.shields.io/github/watchers/skyseraph/Enterprise.svg?style=social&label=Watch)](https://github.com/skyseraph/Enterprise)
+[![GitHub followers](https://img.shields.io/github/followers/skyseraph.svg?style=social&label=Follow)](https://github.com/skyseraph/Enterprise) 
+
 
 # MENU
 
